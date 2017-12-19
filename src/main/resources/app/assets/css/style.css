@@ -1523,7 +1523,7 @@ body {
 .budgets .actual {
   display: inline;
   position: absolute;
-  right: 150px;
+  right: 200px;
 }
 .budgets .remaining {
   display: inline;
@@ -1531,7 +1531,7 @@ body {
 .budgets .projected {
   display: inline;
   position: absolute;
-  right: 235px;
+  right: 335px;
 }
 .budgets .actions {
   display: inline;
