@@ -138,7 +138,7 @@
                       <imageTag>${project.version}</imageTag>
                       <imageTag>latest</imageTag>
                   </imageTags>
-               <dockerDirectory>/</dockerDirectory>
+               <dockerDirectory>${project.basedir}/</dockerDirectory>
                <resources>
                    <resource>
                        <!-- <targetPath>/</targetPath> -->
